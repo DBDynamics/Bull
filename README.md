@@ -21,7 +21,7 @@ performance, efficiency, reliability, safety and simplicity.
 ## 尺寸图
 
 ## 接口图
-
+![](003Bull.png)
 ## 软件
 
 ### 上位机软件
